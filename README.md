@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorgemodrow/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:jorgemodrow@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://drive.google.com/file/d/1ivtprLBSCrnfRIpScDg5XgqaOD0fe5ac/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Currículo-34A853?style=for-the-badge&logo=google-drive&logoColor=white" alt="Currículo">
