@@ -15,7 +15,7 @@
   <a href="mailto:jorgemodrow@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://drive.google.com/file/d/1O8HwSJ2zsOkGOu4mPVtFTzddTJ9oOlAq/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/183pPsdGxL3oHoy8WdZsqM0E23M9h_ZBH/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Currículo-34A853?style=for-the-badge&logo=google-drive&logoColor=white" alt="Currículo">
   </a>
 </p>
