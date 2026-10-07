@@ -1,14 +1,5 @@
-<h1 align="center">Olá, eu sou o Jorge! 👋</h1>
-
-<h3 align="center">Estudante de ADS | Tecnologia e Dados</h3>
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<p align="center">
+<h1>Olá, eu sou o Jorge! 👋</h1>
+<p>
   <a href="https://www.linkedin.com/in/jorgemodrow/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -20,9 +11,24 @@
   </a>
 </p>
 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 ### Sobre mim
 
-* Graduando **Análise e Desenvolvimento de Sistemas** na **UFPR**
-* Atualmente estudando Python e desenvolvimento de APIs
-* Conhecimentos em Power BI e análise de dados
-* Buscando minha primeira oportunidade na área de Tecnologia da Informação
+* Graduando em **Análise e Desenvolvimento de Sistemas** na **UFPR**.
+* Desenvolvendo uma base sólida em lógica de programação estruturada (**C** e **Python**) e bancos de dados relacionais (**SQL/SQLite**).
+* Conhecimentos práticos em modelagem e visualização de dados no **Power BI**, construindo dashboards analíticos dinâmicos e estruturados.
+* Buscando minha primeira oportunidade de estágio em **Desenvolvimento de Software**.
+
+### Tecnologias que eu uso
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
