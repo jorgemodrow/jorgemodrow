@@ -14,7 +14,7 @@
 * Graduando em **Análise e Desenvolvimento de Sistemas** na **UFPR**.
 * Desenvolvendo uma base sólida em lógica de programação estruturada (**C** e **Python**) e bancos de dados relacionais (**SQL/SQLite**).
 * Conhecimentos práticos em modelagem e visualização de dados no **Power BI**, construindo dashboards analíticos dinâmicos e estruturados.
-* Buscando minha primeira oportunidade de estágio em **Desenvolvimento de Software**.
+* Buscando minha primeira oportunidade de estágio em **Desenvolvimento de Software** ou **Análise de Dados**.
 
 ## Tecnologias que eu uso
 
@@ -24,7 +24,5 @@
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Power%20BI-B58B00?style=for-the-badge&labelColor=B58B00" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-B8860B?style=for-the-badge&logo=javascript&logoColor=white&color=B8860B&labelColor=B8860B" alt="JavaScript">
 </p>
