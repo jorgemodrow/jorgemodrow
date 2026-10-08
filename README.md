@@ -7,10 +7,6 @@
   <a href="mailto:jorgemodrow@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  
-  <a href="https://drive.google.com/file/d/183pPsdGxL3oHoy8WdZsqM0E23M9h_ZBH/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Currículo-34A853?style=for-the-badge&logo=google-drive&logoColor=white" alt="Currículo">
-  </a>
 </p>
 
 ## Sobre mim
